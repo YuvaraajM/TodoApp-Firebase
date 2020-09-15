@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Output of the Code
+![]('https://github.com/YuvaraajM/TodoApp-Firebase/blob/master/public/Screenshot%202020-09-15%20180018.png')
+
 ## Available Scripts
 
 In the project directory, you can run:
