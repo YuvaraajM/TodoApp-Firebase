@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## *Deployed URL*
-  https://todo-app-f4cfd.web.app/(https://todo-app-f4cfd.web.app/)
+  [https://todo-app-f4cfd.web.app/](https://todo-app-f4cfd.web.app/)
 
 ## Output of the Code
 ![](https://raw.githubusercontent.com/YuvaraajM/TodoApp-Firebase/master/public/Screenshot%202020-09-15%20180018.png)
