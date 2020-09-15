@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Output of the Code
 ![](https://raw.githubusercontent.com/YuvaraajM/TodoApp-Firebase/master/public/Screenshot%202020-09-15%20180018.png)
-
+![](https://raw.githubusercontent.com/YuvaraajM/TodoApp-Firebase/master/public/screen-capture%20(2).webm)
 ## Available Scripts
 
 In the project directory, you can run:
