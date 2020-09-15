@@ -1,0 +1,11 @@
+.List
+{
+    display: flex;
+    flex-direction: column;
+    margin: auto !important;
+}
+
+.List__content
+{
+    border-bottom:2px #000 dashed;
+}
